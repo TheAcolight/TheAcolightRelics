@@ -1,0 +1,30 @@
+{
+  "THEACOLIGHTRELICS-BROKEN_LANTERN.description": "Start each combat with an additional {energyPrefix:energyIcons(2)}. At the start of your 2nd turn, lose {energyPrefix:energyIcons(1)}.",
+  "THEACOLIGHTRELICS-BROKEN_LANTERN.flavor": "",
+  "THEACOLIGHTRELICS-BROKEN_LANTERN.title": "Broken Lantern",
+
+  "THEACOLIGHTRELICS-ECLIPSE_IN_A_JAR.description": "At the start of combat put all curses from your Draw Pile into your Hand.",
+  "THEACOLIGHTRELICS-ECLIPSE_IN_A_JAR.flavor": "",
+  "THEACOLIGHTRELICS-ECLIPSE_IN_A_JAR.title": "Eclipse in a Jar",
+
+  "THEACOLIGHTRELICS-HOLY_FLAME.description": "At the start of your turn, deal {Damage:diff()} damage to a random enemy then increase this amount by {Increase:diff()}.",
+  "THEACOLIGHTRELICS-HOLY_FLAME.flavor": "",
+  "THEACOLIGHTRELICS-HOLY_FLAME.title": "Holy Flame",
+
+  "THEACOLIGHTRELICS-LIGHT_BULB.description": "If you end your turn with remaining energy, you can retain that many cards.",
+  "THEACOLIGHTRELICS-LIGHT_BULB.flavor": "",
+  "THEACOLIGHTRELICS-LIGHT_BULB.title": "Light Bulb",
+  "THEACOLIGHTRELICS-LIGHT_BULB.selectionScreenPrompt": "Select {Cards:diff()} {Cards:plural:card|cards} to retain.",
+
+  "THEACOLIGHTRELICS-PINK_CRYSTAL.description": "Heal {Heal:diff()} HP upon pickup. If you lose {Heal:diff()} HP or less during a combat, heal the amount lost at the end of combat.",
+  "THEACOLIGHTRELICS-PINK_CRYSTAL.flavor": "",
+  "THEACOLIGHTRELICS-PINK_CRYSTAL.title": "Pink Crystal",
+
+  "THEACOLIGHTRELICS-RAINBOW_IN_A_JAR.description": "At the start of combat put a random card from your Draw Pile into your Hand.",
+  "THEACOLIGHTRELICS-RAINBOW_IN_A_JAR.flavor": "",
+  "THEACOLIGHTRELICS-RAINBOW_IN_A_JAR.title": "Rainbow in a Jar",
+
+  "THEACOLIGHTRELICS-TEMPERED_GLASS.description": "At the end of combat, if you didn't lose HP, start the next combat with {PlatingPower:diff()} Plating.",
+  "THEACOLIGHTRELICS-TEMPERED_GLASS.flavor": "",
+  "THEACOLIGHTRELICS-TEMPERED_GLASS.title": "Tempered Glass"
+}
