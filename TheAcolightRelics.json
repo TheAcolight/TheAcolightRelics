@@ -2,10 +2,11 @@
   "id": "TheAcolightRelics",
   "name": "TheAcolightRelics",
   "author": "TheAcolight",
-  "description": "Slay the Spire 2 character mod created from a template for use with BaseLib",
-  "version": "v0.0.1",
+  "description": "A collection of Light themed relics by TheAcolight.",
+  "version": "v1.0.1",
   "has_pck": true,
   "has_dll": true,
-  "dependencies": ["BaseLib"],
+  "min_game_version": "0.105.0", 
+  "dependencies": [{"id": "BaseLib", "min_version": "3.1.2"}],
   "affects_gameplay": true
 }

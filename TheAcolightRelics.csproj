@@ -62,7 +62,6 @@
     <ItemGroup>
         <Folder Include="TheAcolightRelics\images\card_portraits\big\"/>
         <Folder Include="TheAcolightRelics\images\powers\big\"/>
-        <Folder Include="TheAcolightRelics\images\relics\big\"/>
     </ItemGroup>
 
     <Target Name="CheckDependencyPaths">
