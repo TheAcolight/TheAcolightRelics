@@ -20,11 +20,11 @@
   "THEACOLIGHTRELICS-PINK_CRYSTAL.flavor": "",
   "THEACOLIGHTRELICS-PINK_CRYSTAL.title": "Pink Crystal",
 
-  "THEACOLIGHTRELICS-RAINBOW_IN_A_JAR.description": "At the start of combat put a random card from your [gold]Draw Pile[/gold] into your [gold]Hand[/gold].",
+  "THEACOLIGHTRELICS-RAINBOW_IN_A_JAR.description": "At the start of combat put a random card of the same type as your last played card from your [gold]Draw Pile[/gold] into your [gold]Hand[/gold].",
   "THEACOLIGHTRELICS-RAINBOW_IN_A_JAR.flavor": "",
   "THEACOLIGHTRELICS-RAINBOW_IN_A_JAR.title": "Rainbow in a Jar",
 
-  "THEACOLIGHTRELICS-TEMPERED_GLASS.description": "At the end of combat, if you didn't lose HP, start the next combat with [/blue]{PlatingPower:diff()}[/blue] [gold]Plating[/gold].",
+  "THEACOLIGHTRELICS-TEMPERED_GLASS.description": "At the end of combat, if you didn't lose HP, start the next combat with [blue]{PlatingPower:diff()}[/blue] [gold]Plating[/gold].",
   "THEACOLIGHTRELICS-TEMPERED_GLASS.flavor": "",
   "THEACOLIGHTRELICS-TEMPERED_GLASS.title": "Tempered Glass"
 }
