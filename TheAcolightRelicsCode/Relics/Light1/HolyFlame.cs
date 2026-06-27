@@ -8,7 +8,7 @@ using MegaCrit.Sts2.Core.Rooms;
 using MegaCrit.Sts2.Core.ValueProps;
 using TheAcolightRelics.TheAcolightRelicsCode.Relics;
 
-namespace TheAcolightRelics.TheAcolightRelicsCode.Relics;
+namespace TheAcolightRelics.TheAcolightRelicsCode.Relics.Light1;
 public class HolyFlame() : TheAcolightSharedRelics
 {
     public override RelicRarity Rarity =>

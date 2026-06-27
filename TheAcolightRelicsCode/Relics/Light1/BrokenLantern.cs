@@ -5,7 +5,7 @@ using MegaCrit.Sts2.Core.Entities.Creatures;
 using MegaCrit.Sts2.Core.Entities.Relics;
 using MegaCrit.Sts2.Core.Localization.DynamicVars;
 
-namespace TheAcolightRelics.TheAcolightRelicsCode.Relics;
+namespace TheAcolightRelics.TheAcolightRelicsCode.Relics.Light1;
 
 public class BrokenLantern() : TheAcolightSharedRelics
 {

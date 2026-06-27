@@ -9,7 +9,7 @@ using MegaCrit.Sts2.Core.Saves.Runs;
 using MegaCrit.Sts2.Core.ValueProps;
 using TheAcolightRelics.TheAcolightRelicsCode.Relics;
 
-namespace TheAcolightRelics.TheAcolightRelicsCode.Relics;
+namespace TheAcolightRelics.TheAcolightRelicsCode.Relics.Light1;
 
 public class PinkCrystal() : TheAcolightSharedRelics
 {

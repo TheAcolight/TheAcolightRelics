@@ -9,7 +9,7 @@ using MegaCrit.Sts2.Core.Models;
 using MegaCrit.Sts2.Core.Models.Powers;
 using TheAcolightRelics.TheAcolightRelicsCode.Relics;
 
-namespace TheAcolightRelics.TheAcolightRelicsCode.Relics;
+namespace TheAcolightRelics.TheAcolightRelicsCode.Relics.Light1;
 
 public class LightBulb() : TheAcolightSharedRelics
 {
