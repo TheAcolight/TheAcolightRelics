@@ -3,7 +3,7 @@
   "THEACOLIGHTRELICS-BROKEN_LANTERN.description": "Start each combat with an additional {energyPrefix:energyIcons(2)}. At the start of your 2nd turn, lose {energyPrefix:energyIcons(1)}.",
   "THEACOLIGHTRELICS-BROKEN_LANTERN.flavor": "",
   "THEACOLIGHTRELICS-DARK_BLADE.title": "Dark Blade",
-  "THEACOLIGHTRELICS-DARK_BLADE.description": "Whenever you end your turn without playing any Attacks or Skills, deal [blue]{Damage:diff()}[/blue] damage to a random enemy and gain [blue]{Block:diff()}[/blue] [gold]Block[/gold].",
+  "THEACOLIGHTRELICS-DARK_BLADE.description": "At the end of your turn, deal [blue]{Damage:diff()}[/blue] damage to a random enemy if you played no Attacks and gain [blue]{Block:diff()}[/blue] [gold]Block[/gold] if you played no Skills.",
   "THEACOLIGHTRELICS-DARK_BLADE.flavor": "",
   "THEACOLIGHTRELICS-FORBIDDING_TALISMAN.title": "Forbidding Talisman",
   "THEACOLIGHTRELICS-FORBIDDING_TALISMAN.description": "At the start of your [blue]{Turn:diff()}[/blue]nd turn, apply [blue]{Power:diff()}[/blue] [gold]Weak[/gold] and [gold]Vulnerable[/gold] to ALL enemies.",
